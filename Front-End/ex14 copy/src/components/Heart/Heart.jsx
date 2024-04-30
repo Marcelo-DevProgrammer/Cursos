@@ -25,4 +25,4 @@ function Heart({ onClick, selected = false, testId = 'heart' }) {
     );
 }
 
-export default Heart;
+export default Heart;       
