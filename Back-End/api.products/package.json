@@ -1,0 +1,15 @@
+{
+  "name": "api.products",
+  "version": "0.0.1",
+  "description": "API que cuida de produtos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./app"
+  },
+  "author": "Marcelo",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
